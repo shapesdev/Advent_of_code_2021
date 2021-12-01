@@ -1,0 +1,16 @@
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\bin\Debug\net5.0\Advent_of_code_2021.exe
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\bin\Debug\net5.0\Advent_of_code_2021.deps.json
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\bin\Debug\net5.0\Advent_of_code_2021.runtimeconfig.json
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\bin\Debug\net5.0\Advent_of_code_2021.runtimeconfig.dev.json
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\bin\Debug\net5.0\Advent_of_code_2021.dll
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\bin\Debug\net5.0\ref\Advent_of_code_2021.dll
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\bin\Debug\net5.0\Advent_of_code_2021.pdb
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\obj\Debug\net5.0\Advent_of_code_2021.csproj.AssemblyReference.cache
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\obj\Debug\net5.0\Advent_of_code_2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\obj\Debug\net5.0\Advent_of_code_2021.AssemblyInfoInputs.cache
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\obj\Debug\net5.0\Advent_of_code_2021.AssemblyInfo.cs
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\obj\Debug\net5.0\Advent_of_code_2021.csproj.CoreCompileInputs.cache
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\obj\Debug\net5.0\Advent_of_code_2021.dll
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\obj\Debug\net5.0\ref\Advent_of_code_2021.dll
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\obj\Debug\net5.0\Advent_of_code_2021.pdb
+C:\Users\Donc3 Kebabas\Documents\GitHub\Advent_of_code_2021\Advent_of_code_2021\obj\Debug\net5.0\Advent_of_code_2021.genruntimeconfig.cache
