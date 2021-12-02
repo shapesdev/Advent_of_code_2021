@@ -8,8 +8,6 @@ namespace Advent_of_code_2021
 {
     interface IDay
     {
-        void SolveFirstPuzzle();
-        void SolveSecondPuzzle();
-        void PrintResults();
+        void PrintResults(int dayNumber);
     }
 }
