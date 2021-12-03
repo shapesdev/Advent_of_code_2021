@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Donc3 Kebabas\\.nuget\\packages\\": {},
+    "C:\\Users\\shapes\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Donc3 Kebabas\\Documents\\GitHub\\Advent_of_code_2021\\Advent_of_code_2021\\Advent_of_code_2021.csproj",
+      "projectUniqueName": "C:\\Users\\shapes\\Documents\\GitHub\\Advent_of_code_2021\\Advent_of_code_2021\\Advent_of_code_2021.csproj",
       "projectName": "Advent_of_code_2021",
-      "projectPath": "C:\\Users\\Donc3 Kebabas\\Documents\\GitHub\\Advent_of_code_2021\\Advent_of_code_2021\\Advent_of_code_2021.csproj",
-      "packagesPath": "C:\\Users\\Donc3 Kebabas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Donc3 Kebabas\\Documents\\GitHub\\Advent_of_code_2021\\Advent_of_code_2021\\obj\\",
+      "projectPath": "C:\\Users\\shapes\\Documents\\GitHub\\Advent_of_code_2021\\Advent_of_code_2021\\Advent_of_code_2021.csproj",
+      "packagesPath": "C:\\Users\\shapes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shapes\\Documents\\GitHub\\Advent_of_code_2021\\Advent_of_code_2021\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Donc3 Kebabas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shapes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

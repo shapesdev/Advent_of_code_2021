@@ -9,7 +9,8 @@ namespace Advent_of_code_2021
         static void Main(string[] args) {
             List<IDay> days = new List<IDay>() {
                 new Day1(),
-                new Day2()
+                new Day2(),
+                new Day3()
             };
 
             for(int i = 0; i < days.Count; i++) {
