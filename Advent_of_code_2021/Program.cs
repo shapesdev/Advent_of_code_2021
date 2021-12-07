@@ -10,7 +10,8 @@ namespace Advent_of_code_2021
             List<IDay> days = new List<IDay>() {
                 new Day1(),
                 new Day2(),
-                new Day3()
+                new Day3(),
+                new Day4()
             };
 
             for(int i = 0; i < days.Count; i++) {
